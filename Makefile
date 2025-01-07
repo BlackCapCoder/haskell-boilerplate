@@ -1,0 +1,3 @@
+run:
+	hpack && cabal run
+
